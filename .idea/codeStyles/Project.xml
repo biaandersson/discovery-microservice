@@ -1,0 +1,38 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="RIGHT_MARGIN" value="110" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+    <option name="ENABLE_SECOND_REFORMAT" value="true" />
+    <ScalaCodeStyleSettings>
+      <option name="addFullQualifiedImports" value="false" />
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="io.circe.syntax.*" />
+        </array>
+      </option>
+      <option name="ALIGN_EXTENDS_WITH" value="1" />
+      <option name="ALIGN_IN_COLUMNS_CASE_BRANCH" value="true" />
+      <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
+      <option name="SPACES_IN_ONE_LINE_BLOCKS" value="true" />
+      <option name="SPACES_IN_IMPORTS" value="true" />
+      <option name="SPACES_AROUND_AT_IN_PATTERNS" value="true" />
+      <option name="CALL_PARAMETERS_NEW_LINE_AFTER_LPAREN" value="2" />
+      <option name="REPLACE_CASE_ARROW_WITH_UNICODE_CHAR" value="true" />
+      <option name="REPLACE_MAP_ARROW_WITH_UNICODE_CHAR" value="true" />
+      <option name="REPLACE_FOR_GENERATOR_ARROW_WITH_UNICODE_CHAR" value="true" />
+    </ScalaCodeStyleSettings>
+    <codeStyleSettings language="Scala">
+      <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+      <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+      <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+      <option name="PARENTHESES_EXPRESSION_LPAREN_WRAP" value="true" />
+      <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+      <option name="WRAP_LONG_LINES" value="true" />
+      <option name="SOFT_MARGINS" value="0" />
+      <indentOptions>
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="SMART_TABS" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
